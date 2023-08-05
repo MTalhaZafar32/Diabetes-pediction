@@ -22,6 +22,7 @@ After training the XGBoost model, we evaluated its performance on a separate tes
 ## Repository Structure
 The repository is organized into the following structure:
 
+
 ```
 Diabetes-Prediction-Project/
   ├── data/
@@ -36,6 +37,7 @@ Diabetes-Prediction-Project/
   ├── README.md
   └── .gitignore
 ```
+
 ## data/:
 This directory contains the cleaned data (cleaned_data.csv) used for training the XGBoost model and the test results (test_results.csv) obtained after evaluating the model on a separate test dataset.
 
