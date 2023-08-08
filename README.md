@@ -20,7 +20,7 @@ For predicting diabetes, we opted to use the XGBoost model, a popular gradient-b
 After training the XGBoost model, we evaluated its performance on a separate test dataset. The test results were saved in the test_results.csv file for further analysis.
 
 ## Repository Structure
-The repository is organized into the following structure:
+The repository is organized into the following structure :
 
 
 ```
