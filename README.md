@@ -11,7 +11,7 @@ The dataset used for this project was obtained from a study involving female pat
 After obtaining the dataset, we performed data cleaning to ensure consistency, handle missing values, and remove any irrelevant information. The cleaned data forms the foundation for building the predictive model.
 
 ## Exploratory Data Analysis (EDA):
-In the exploratory data analysis phase, we conducted descriptive statistics and visualizations to gain insights into the distribution and relationships between various features in the dataset. This step helped us understand the data and identify any patterns that might be relevant for the prediction model.
+In the exploratory data analysis phase, we conducted descriptive statistics and visualizations to gain insights into the distribution and relationships between various features in the dataset. This step helped us understand the data and identify any patterns that might be relevant to the prediction model.
 
 ## Model Training:
 For predicting diabetes, we opted to use the XGBoost model, a popular gradient-boosting algorithm known for its effectiveness in classification tasks. We trained the XGBoost model on the cleaned dataset and fine-tuned its hyperparameters to achieve optimal performance.
