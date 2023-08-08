@@ -14,7 +14,7 @@ After obtaining the dataset, we performed data cleaning to ensure consistency, h
 In the exploratory data analysis phase, we conducted descriptive statistics and visualizations to gain insights into the distribution and relationships between various features in the dataset. This step helped us understand the data and identify any patterns that might be relevant for the prediction model.
 
 ## Model Training:
-For predicting diabetes, we opted to use the XGBoost model, a popular gradient boosting algorithm known for its effectiveness in classification tasks. We trained the XGBoost model on the cleaned dataset and fine-tuned its hyperparameters to achieve optimal performance.
+For predicting diabetes, we opted to use the XGBoost model, a popular gradient-boosting algorithm known for its effectiveness in classification tasks. We trained the XGBoost model on the cleaned dataset and fine-tuned its hyperparameters to achieve optimal performance.
 
 ## Test Results:
 After training the XGBoost model, we evaluated its performance on a separate test dataset. The test results were saved in the test_results.csv file for further analysis.
